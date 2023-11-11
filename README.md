@@ -4,7 +4,7 @@ a desktop application developed using C# with WPF and follows the MVVM (Model-Vi
 
 ## Screenshots
 
-![Screenshot](./screenshots/Login full.png)
+![Screenshot](./screenshots/Login_screen.png)
 
 
 
